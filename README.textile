@@ -4,6 +4,11 @@ h2. Requirements
 
 appengine-java-sdk => "http://code.google.com/appengine/downloads.html":http://code.google.com/appengine/downloads.html
 
+h2. Get source
+
+<pre><code>git clone git://github.com/jugyo/sinatra_on_gae.git
+cd sinatra_on_gae</code></pre>
+
 h2. Run
 
 <pre><code>dev_appserver.sh .</code></pre>
