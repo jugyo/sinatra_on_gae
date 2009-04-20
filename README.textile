@@ -8,16 +8,8 @@ appengine-java-sdk
 
 h2. Run
 
-<pre>
-<code>
-dev_appserver.sh .
-</code>
-</pre>
+<pre><code>dev_appserver.sh .</code></pre>
 
 h2. Deploy
 
-<pre>
-<code>
-appcfg.sh update .
-</code>
-</pre>
+<pre><code>appcfg.sh update .</code></pre>
