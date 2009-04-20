@@ -3,16 +3,21 @@ h1. Sinatra on Google APP Engine
 h2. Requirements
 
 appengine-java-sdk
-http://code.google.com/appengine/downloads.html
+
+"http://code.google.com/appengine/downloads.html":http://code.google.com/appengine/downloads.html
 
 h2. Run
 
-<pre><code>
+<pre>
+<code>
 dev_appserver.sh .
-</code></pre>
+</code>
+</pre>
 
 h2. Deploy
 
-<pre><code>
+<pre>
+<code>
 appcfg.sh update .
-</code></pre>
+</code>
+</pre>
