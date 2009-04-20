@@ -6,13 +6,12 @@ appengine-java-sdk => "http://code.google.com/appengine/downloads.html":http://c
 
 h2. Get source
 
-<pre><code>git clone git://github.com/jugyo/sinatra_on_gae.git
-cd sinatra_on_gae</code></pre>
+<pre><code>git clone git://github.com/jugyo/sinatra_on_gae.git</code></pre>
 
 h2. Run
 
-<pre><code>dev_appserver.sh .</code></pre>
+<pre><code>dev_appserver.sh ./sinatra_on_gae</code></pre>
 
 h2. Deploy
 
-<pre><code>appcfg.sh update .</code></pre>
+<pre><code>appcfg.sh update ./sinatra_on_gae</code></pre>
