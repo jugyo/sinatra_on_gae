@@ -2,9 +2,7 @@ h1. Sinatra on Google APP Engine
 
 h2. Requirements
 
-appengine-java-sdk
-
-"http://code.google.com/appengine/downloads.html":http://code.google.com/appengine/downloads.html
+appengine-java-sdk => "http://code.google.com/appengine/downloads.html":http://code.google.com/appengine/downloads.html
 
 h2. Run
 
