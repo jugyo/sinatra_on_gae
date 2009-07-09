@@ -14,4 +14,12 @@ h2. Run
 
 h2. Deploy
 
+Edit appengine-web.xml:
+
+<pre><code>...
+  <application>[Your Application Identifier]</application>
+...</code></pre>
+
+Run a command:
+
 <pre><code>appcfg.sh update ./sinatra_on_gae</code></pre>
